@@ -26,7 +26,7 @@ android {
             signingConfig signingConfigs.defaultSigningConfig
         }
     }
-    testBuildType 'debug'
+    testBuildType 'release'
 }
 
 dependencies {
