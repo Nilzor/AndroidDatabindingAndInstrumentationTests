@@ -14,6 +14,7 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     public void testSomething() {
         //
         int a =1 ;
-        int b = 2;
+        int b = 3;
+        int c =b +1;
     }
 }

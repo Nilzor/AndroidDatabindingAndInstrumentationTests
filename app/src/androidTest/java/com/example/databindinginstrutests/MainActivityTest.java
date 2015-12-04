@@ -15,7 +15,7 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
         super(MainActivity.class);
     }
 
-    public void testActivity() {
+    public void testActivity2() {
         getActivity();
         try {
             Thread.sleep(3000);
